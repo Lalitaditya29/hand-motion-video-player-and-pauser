@@ -1,1 +1,1 @@
-# hand-motion-video-player-and-pauser
+# PRO-C130-Teacher-Boilerplate
